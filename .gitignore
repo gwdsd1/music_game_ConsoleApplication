@@ -1,0 +1,17 @@
+# Python 虚拟环境
+谱面转换脚本/venv/
+
+# Demucs 分离输出（体积大）
+谱面转换脚本/separated/
+
+# Visual Studio 输出
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+.vs/

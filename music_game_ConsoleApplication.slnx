@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="music_game_ConsoleApplication/music_game_ConsoleApplication.vcxproj" Id="2944715a-73f7-4b28-b3da-7a01776864f4" />
+</Solution>
